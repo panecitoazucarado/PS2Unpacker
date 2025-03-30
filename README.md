@@ -34,11 +34,14 @@ License
 📥 Descarga Directa (macOS)
 <div align="center"> <a href="https://github.com/panecitoazucarado/PS2Unpacker/releases/latest/download/PS2Unpacker.pkg"> <img src="https://img.shields.io/badge/Download-macOS_Installer-0078d7?style=for-the-badge&logo=apple" alt="Download macOS Installer"/> </a> </div>
 🔧 Desde Código Fuente
-# Copia este comando (haz clic para copiar automáticamente)
+
+> # Copia este comando (haz clic para copiar automáticamente)
 git clone https://github.com/panecitoazucarado/PS2Unpacker.git && cd PS2Unpacker && pip install -r requirements.txt
 <div align="center"> <a href="#" onclick="navigator.clipboard.writeText('git clone https://github.com/panecitoazucarado/PS2Unpacker.git && cd PS2Unpacker && pip install -r requirements.txt')"> <img src="https://img.shields.io/badge/-Copiar_comando-2d2d2d?style=flat-square&logo=gnu-bash&logoColor=white" alt="Copiar comando"/> </a> </div>
+
 🖥️ Capturas de Pantalla
 <div align="center"> <img src="https://via.placeholder.com/400x250/2d2d2d/ffffff?text=Interfaz+Principal" width="45%"/> <img src="https://via.placeholder.com/400x250/2d2d2d/ffffff?text=Proceso+de+Extracción" width="45%"/> </div>
+
 🛠️ Tecnologías Clave
 Componente	Función
 PyQt5	Interfaz gráfica profesional
