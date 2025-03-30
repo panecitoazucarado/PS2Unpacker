@@ -78,7 +78,7 @@
       </td>
       <td>
         <h3>Paso 2: Selección de archivos</h3>
-        <p>🔹 <em>Explica cómo seleccionar la carpeta con la BIOS o los archivos necesarios.</em></p>
+        <p>🔹 <em>Una vez que hayas realizado la extracción utilizando BiosDrain.elf, el programa generará varios archivos en tu USB. De estos archivos, debes seleccionar el que tenga la extensión .rom0 y cargarlo en el programa. Para hacerlo, simplemente ábrelo utilizando la opción “Open” (Abrir).</em></p>
       </td>
     </tr>
     <!-- Paso 3 -->
