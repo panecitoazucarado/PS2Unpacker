@@ -135,16 +135,19 @@ La decisión dependerá de cómo el usuario desee trabajar con los archivos extr
 
 # PS2 BIOS Unpacker - Terminal Edition
 
-## INSTALACIÓN
-```bash
-# 1. Clonar repositorio
-gh repo clone panecitoazucarado/PS2Unpacker
+⚠️ Sección retirada temporalmente ⚠️
 
-# 2. Entrar al directorio
-cd PS2Unpacker
+La versión PS2 BIOS Unpacker - Terminal Edition ha sido retirada temporalmente mientras se aplican parches y mejoras.
 
-# 3. Instalar dependencias
-pip install -r requirements.txt
+📌 Estado del desarrollo
 
-# 4. Ejecutar aplicación
-python src/main.py
+🚧 En construcción: Se están corrigiendo errores y optimizando el código.
+
+🛠️ Mejoras en proceso: Se implementarán nuevas funciones para hacer la herramienta más eficiente.
+
+⏳ Lanzamiento estimado: Próximamente, después de completar las pruebas y ajustes finales.
+
+Agradecemos tu paciencia y apoyo. ¡Vuelve pronto para más actualizaciones! 🎮🔥
+
+
+
