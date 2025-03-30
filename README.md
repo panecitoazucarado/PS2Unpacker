@@ -5,7 +5,7 @@
 
 > **Herramienta profesional para extraer y analizar BIOS de PlayStation 2**  
 > *Versión con interfaz gráfica basada en el trabajo original de [78edu](https://github.com/78edu/playstation2-bios-extract)*
-> *Para esto primero debes hacerle un volcado de memoria a tu PS2 Fisica Model_SCPH-XXXXX para obtener el archivo .rom0 usando el programa BiosDrain del usuario [f0bes](https://github.com/F0bes/biosdrain), este mismo archivo sera el que nuestro programa de PS2 Unpacker interprete como desempaquetable en la aplicación.
+> *Para esto primero debes hacerle un volcado de memoria a tu PS2 Fisica Model_SCPH-XXXXX para obtener el archivo .rom0 usando el programa BiosDrain del usuario [f0bes](https://github.com/F0bes/biosdrain), este mismo archivo sera el que nuestro programa de PS2 Unpacker interprete como desempaquetable en la aplicación.*
 
 ## 🌟 Características Principales
 
