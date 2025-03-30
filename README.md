@@ -15,10 +15,16 @@
 - **Múltiples formatos de salida** (binarios crudos, logs estructurados)
 - **Sistema de informes detallados** de extracción
   
-Python 3.8+
-PyQt5 5.15+
-Platforms
-License
+## 🛠 Requisitos Técnicos
+
+<div align="center">
+
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![PyQt5 5.15+](https://img.shields.io/badge/PyQt5-5.15%2B-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://pypi.org/project/PyQt5/)
+[![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20macOS%20%7C%20Linux-999999?style=for-the-badge)](https://github.com/panecitoazucarado/PS2Unpacker/releases)
+[![License](https://img.shields.io/badge/License-MIT-A31F34?style=for-the-badge)](LICENSE)
+
+</div>
 
 
 
