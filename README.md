@@ -94,8 +94,8 @@ Al desempaquetar los archivos, se creará automáticamente una carpeta llamada �
 
 El usuario tiene dos opciones:
 
-	1.	Extraer todos los archivos: La BIOS en formato .rom0 suele ocupar entre 4.2 MB y 4.7 MB. 
-	2.	Extraer archivos de forma individual: Permite seleccionar y extraer únicamente los archivos necesarios.
+1.	Extraer todos los archivos: La BIOS en formato .rom0 suele ocupar entre 4.2 MB y 4.7 MB. 
+2.	Extraer archivos de forma individual: Permite seleccionar y extraer únicamente los archivos necesarios.
 
 La decisión dependerá de cómo el usuario desee trabajar con los archivos extraídos.</em></p>
       </td>
