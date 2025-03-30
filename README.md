@@ -1,5 +1,20 @@
-🎮 PS2 BIOS Unpacker Tool (GUI Edition)
-<div align="center"> <img src="src/resources/icons/png/512.png" alt="PS2 BIOS Unpacker" width="200"/>
+# PS2 Unpacker
+# 🎮 PS2 BIOS Unpacker Tool (GUI Edition)
+
+![Banner del Proyecto](src/resources/icons/png/512.png)
+
+> **Herramienta profesional para extraer y analizar BIOS de PlayStation 2**  
+> *Versión con interfaz gráfica basada en el trabajo original de [78edu](https://github.com/78edu/playstation2-bios-extract)*
+
+## 🌟 Características Principales
+
+- **Interfaz gráfica moderna** desarrollada con PyQt5
+- **Soporte multiplataforma** (Windows/macOS/Linux)
+- Extracción **modular** de componentes de BIOS
+- **Preserva la estructura original** de archivos ROM0/BIN
+- **Múltiples formatos de salida** (binarios crudos, logs estructurados)
+- **Sistema de informes detallados** de extracción
+  
 Python 3.8+
 PyQt5 5.15+
 Platforms
