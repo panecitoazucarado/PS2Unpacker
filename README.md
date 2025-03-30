@@ -40,38 +40,18 @@
 📥 Descarga Directa (macOS)
 <div align="center"> <a href="https://github.com/panecitoazucarado/PS2Unpacker/releases/latest/download/PS2Unpacker.pkg"> <img src="https://img.shields.io/badge/Download-macOS_Installer-0078d7?style=for-the-badge&logo=apple" alt="Download macOS Installer"/> </a> </div>
 
-## 🔍 Instalación desde Fuente
+# PS2 BIOS Unpacker - Terminal Edition
 
-### Clonar Repositorio
+## INSTALACIÓN
 ```bash
+# 1. Clonar repositorio
 gh repo clone panecitoazucarado/PS2Unpacker
 
-## 🖥️ Demo Visual
+# 2. Entrar al directorio
+cd PS2Unpacker
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x500/1e1e1e/ffffff?text=Captura+Interfaz+Profesional" alt="Demo UI" style="border-radius: 8px; border: 1px solid #3a3a3a; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 80%;">
-</div>
+# 3. Instalar dependencias
+pip install -r requirements.txt
 
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-| Componente        | Función                          | Versión |
-|-------------------|----------------------------------|---------|
-| <img src="https://img.shields.io/badge/PyQt5-41CD52?logo=qt&logoColor=white" width="100"> | Interfaz gráfica profesional | 5.15+ |
-| <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" width="100"> | Lógica de extracción | 3.11+ |
-| <img src="https://img.shields.io/badge/PyInstaller-3673A5?logo=python&logoColor=white" width="100"> | Empacado multiplataforma | 5.7+ |
-| <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" width="100"> | Pipeline CI/CD | - |
-
-</div>
-
-## � Innovaciones Técnicas
-
-<div style="background: #1a1a1a; padding: 20px; border-radius: 8px; margin-top: 20px;">
-
-- **🚀 Rendimiento** - Algoritmo de lectura optimizado con ganancias del 40% en velocidad
-- **🛡️ Robustez** - Sistema de manejo de errores con recuperación automática
-- **🎨 Calidad Visual** - Soporte nativo para pantallas HighDPI/Retina
-- **📈 Telemetría** - Sistema de informes con métricas de extracción detalladas
-
-</div>
+# 4. Ejecutar aplicación
+python src/main.py
