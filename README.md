@@ -20,17 +20,15 @@ PyQt5 5.15+
 Platforms
 License
 
-</div>
-Herramienta profesional para extraer y analizar BIOS de PlayStation 2
-Versión con interfaz gráfica basada en el trabajo original de 78edu
 
-🌟 Características Principales
-✔ Interfaz gráfica moderna con PyQt5
-✔ Soporte multiplataforma (Windows/macOS/Linux)
-✔ Extracción modular de componentes BIOS
-✔ Preserva estructura original de archivos ROM0/BIN
-✔ Múltiples formatos de salida (binarios crudos, logs estructurados)
-✔ Informes detallados de extracción
+
+# 🌟 Características Principales
+> ✔ Interfaz gráfica moderna con PyQt5
+> ✔ Soporte multiplataforma (Windows/macOS/Linux)
+> ✔ Extracción modular de componentes BIOS
+> ✔ Preserva estructura original de archivos ROM0/BIN
+> ✔ Múltiples formatos de salida (binarios crudos, logs estructurados)
+> ✔ Informes detallados de extracción
 
 🚀 Instalación Rápida
 📥 Descarga Directa (macOS)
