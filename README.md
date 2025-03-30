@@ -68,7 +68,7 @@
       </td>
       <td width="50%">
         <h3>Paso 1: Inicio - Finalizada la instalacion en Mac OS</h3>
-        <p>🔹 <em>Una vez finalizada la instalacion tendras esta elegante y sencilla interfaz facil de usar, sin tantas complicaciones.</em></p>
+        <p>🔹 <em>Una vez finalizada la instalacion tendras esta elegante y sencilla interfaz facil de usar, sin tantas complicaciones, deberas buscar la rom extraida de tu PS2 haciendo uso del programa de BiosDrain de F0bes de tu consola PS2 e importar el archivo .rom0 o tambien puedes cambiar la extension a .bin y el programa te lo aceptara.</em></p>
       </td>
     </tr>
     <!-- Paso 2 -->
