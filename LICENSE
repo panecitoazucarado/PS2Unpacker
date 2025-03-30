@@ -1,4 +1,23 @@
-MIT License
+PS2 Unpacker Bios - Copyright (C) 2024 Panecito Azucarado
 
-Copyright (c) [year] [fullname]
-...
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+## 📌 Aviso Legal
+
+Este proyecto es una herramienta técnica para investigación y preservación de BIOS.  
+No incluye firmware propietario de Sony. Los usuarios deben extraer BIOS de sus propias consolas PS2 (legales).  
+El desarrollador no se hace responsable del mal uso de este software.
+
+# SPDX-License-Identifier: GPL-3.0
+# Copyright (C) 2024 Panecito Azucarado
