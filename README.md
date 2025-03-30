@@ -24,8 +24,9 @@ PyQt5 5.15+
 🚀 Instalación
 Método 1: Instalador para macOS
 
-# Descarga el paquete .pkg más reciente
-open [https://github.com/tuusuario/ps2-bios-unpacker/releases/latest](https://github.com/panecitoazucarado/PS2Unpacker/releases/download/v1.0.0/PS2Unpacker.pkg)
+# Descarga el paquete .pkg más reciente (MAC OS)
+
+[Descargar la última versión de PS2Unpacker](https://github.com/panecitoazucarado/PS2Unpacker/releases/latest/download/PS2Unpacker.pkg)
 
 git clone https://github.com/tuusuario/ps2-bios-unpacker.git
 cd ps2-bios-unpacker
