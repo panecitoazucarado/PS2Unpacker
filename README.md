@@ -107,7 +107,7 @@ La decisión dependerá de cómo el usuario desee trabajar con los archivos extr
       </td>
       <td>
         <h3>Paso 4: Confirmación</h3>
-        <p>🔹 <em>Indica qué debe verificar el usuario antes de continuar.</em></p>
+        <p>🔹 <em>Cuando el usuario presione un botón para extraer el contenido, el programa mostrará una alerta en pantalla confirmando que el archivo o los archivos han sido desempaquetados correctamente.</em></p>
       </td>
     </tr>
     <!-- Paso 5 -->
@@ -117,7 +117,7 @@ La decisión dependerá de cómo el usuario desee trabajar con los archivos extr
       </td>
       <td>
         <h3>Paso 5: Extracción</h3>
-        <p>🔹 <em>Detalla cómo se completan las operaciones con los archivos.</em></p>
+        <p>🔹 <em>Aquí se muestra cómo se verá la carpeta que contiene los archivos extraídos. Por defecto, esta se generará en la carpeta de Descargas en macOS.</em></p>
       </td>
     </tr>
     <!-- Paso 6 -->
@@ -127,7 +127,7 @@ La decisión dependerá de cómo el usuario desee trabajar con los archivos extr
       </td>
       <td>
         <h3>Paso 6: Finalización</h3>
-        <p>🔹 <em>Explica qué hacer al terminar (ej: ubicación de los archivos resultantes).</em></p>
+        <p>🔹 <em>Y como puedes ver, aquí tendrás todos tus módulos de la BIOS desempaquetados correctamente, organizados y con sus respectivos nombres de cada módulo.</em></p>
       </td>
     </tr>
   </table>
