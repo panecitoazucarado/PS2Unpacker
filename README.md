@@ -40,11 +40,9 @@
 📥 Descarga Directa (macOS)
 <div align="center"> <a href="https://github.com/panecitoazucarado/PS2Unpacker/releases/latest/download/PS2Unpacker.pkg"> <img src="https://img.shields.io/badge/Download-macOS_Installer-0078d7?style=for-the-badge&logo=apple" alt="Download macOS Installer"/> </a> </div>
 
-🔧 Desde Código Fuente
+## 🔍 Instalación desde Fuente
 
-> # Copia este comando (haz clic para copiar automáticamente)
-## 🚀 Clonar Repositorio
-
+### Clonar Repositorio
 ```bash
 gh repo clone panecitoazucarado/PS2Unpacker
 
