@@ -88,7 +88,15 @@
       </td>
       <td>
         <h3>Paso 3: Procesamiento</h3>
-        <p>🔹 <em>Describe qué hace la app en este paso (ej: validación, descompresión).</em></p>
+        <p>🔹 <em>El programa procesará el contenido del archivo .rom0 y mostrará su contenido en la interfaz. Desde ahí, el usuario podrá seleccionar qué archivos desea exportar a su carpeta de Descargas.
+
+Al desempaquetar los archivos, se creará automáticamente una carpeta llamada “extraction_bios”, donde se almacenará todo el contenido extraído.
+
+El usuario tiene dos opciones:
+	1.	Extraer todos los archivos: La BIOS en formato .rom0 suele ocupar entre 4.2 MB y 4.7 MB.
+	2.	Extraer archivos de forma individual: Permite seleccionar y extraer únicamente los archivos necesarios.
+
+La decisión dependerá de cómo el usuario desee trabajar con los archivos extraídos.</em></p>
       </td>
     </tr>
     <!-- Paso 4 -->
