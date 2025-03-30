@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=PS2 Unpacker
+Exec=ps2-unpacker
+Icon=ps2-unpacker
+Type=Application
+Categories=Utility;
