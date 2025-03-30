@@ -1,7 +1,22 @@
 # PS2 Unpacker
 # 🎮 PS2 BIOS Unpacker Tool (GUI Edition)
 
-![Banner del Proyecto](src/resources/icons/png/512.png)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="src/resources/icons/png/512.png" alt="Icono de la aplicación" width="200"/>
+        <br>
+        <em>Icono de PS2Unpacker</em>
+      </td>
+      <td align="center">
+        <img src="https://github.com/panecitoazucarado/PS2Unpacker/blob/main/banners/Logo.png" alt="Logo de PS2Unpacker" width="200"/>
+        <br>
+        <em>Logo del proyecto</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 > **Herramienta profesional para extraer y analizar BIOS de PlayStation 2**  
 > *Versión con interfaz gráfica basada en el trabajo original de [78edu](https://github.com/78edu/playstation2-bios-extract)*
