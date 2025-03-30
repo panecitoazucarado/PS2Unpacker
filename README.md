@@ -67,8 +67,8 @@
         <img src="https://github.com/panecitoazucarado/PS2Unpacker/blob/main/Tutorial%20uso%20de%20la%20App%20-Secuencia%20de%20Pasos/Mac%20OS/paso%201.png" alt="Paso 1" width="300"/>
       </td>
       <td width="50%">
-        <h3>Paso 1: Inicio</h3>
-        <p>🔹 <em>Aquí puedes describir cómo iniciar la aplicación en macOS.</em></p>
+        <h3>Paso 1: Inicio - Finalizada la instalacion en Mac OS</h3>
+        <p>🔹 <em>Una vez finalizada la instalacion tendras esta elegante y sencilla interfaz facil de usar, sin tantas complicaciones.</em></p>
       </td>
     </tr>
     <!-- Paso 2 -->
