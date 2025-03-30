@@ -26,7 +26,7 @@ Método 1: Instalador para macOS
 
 # Descarga el paquete .pkg más reciente (MAC OS)
 
-[![Descargar última versión](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Download_button.svg/800px-Download_button.svg)](https://github.com/panecitoazucarado/PS2Unpacker/releases/latest/download/PS2Unpacker.pkg)
+[**🔽 Descargar última versión (PS2Unpacker.pkg)**](https://github.com/panecitoazucarado/PS2Unpacker/releases/latest/download/PS2Unpacker.pkg)
 
 git clone https://github.com/tuusuario/ps2-bios-unpacker.git
 cd ps2-bios-unpacker
